@@ -9,6 +9,6 @@ List of Projects
 4.  Climate Change Project - (SQL) Viewing average temperatures and changes to see differences.
 5.  Data Cleaning - (SQL) Viewing housing in Nashville to see vacancy amounts.
 6.  Lana Machine - (Python) Viewing most common lyrics and producers to see trends in what the artist liked to collaborate or talk about.
-7.  Titanic Project - (Python) Used machine learning techniques to view who would survive the titanic.
+7.  Titanic Project - (Python) Used machine learning techniques to view who would survive the Titanic.
    
 
